@@ -28,7 +28,4 @@ Map<String,dynamic> kiyoon = {
 
 ### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
 
-<div style = width = 100%>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"  width = 50%/></span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width = 50%/></span>
-</div>
 
