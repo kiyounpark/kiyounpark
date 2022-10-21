@@ -23,3 +23,4 @@ Map<String,dynamic> kiyoon = {
 
 
 ## 대표 프로젝트 💻
+![기윤 이력서 사진](https://user-images.githubusercontent.com/80557852/197118662-a96ab595-be9e-4701-8efd-94f66d35c265.jpeg)
