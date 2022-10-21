@@ -24,5 +24,11 @@ Map<String,dynamic> kiyoon = {
 
 ## 대표 프로젝트 💻
 
-![IMG_7292](https://user-images.githubusercontent.com/80557852/197121071-1cb7a165-9ca3-4ad0-a543-2042f079658b.PNG)
-![IMG_7291](https://user-images.githubusercontent.com/80557852/197121079-aa65edd4-d7b9-4dda-bc26-ea1d1170e12f.PNG)
+---
+
+### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
+
+<div style = width = 100%>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"  width = 50%/></span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width = 50%/></span>
+</div>
+
