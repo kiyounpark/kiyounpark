@@ -10,8 +10,6 @@ Map<String,dynamic> kiyoon = {
 }
 ```
 
----
-
 ## 기술 스택 📕
 <span>
 <img style src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height = 30 /> 
@@ -23,8 +21,6 @@ Map<String,dynamic> kiyoon = {
 
 
 ## 대표 프로젝트 💻
-
----
 
 ### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
 
