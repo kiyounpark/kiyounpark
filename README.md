@@ -23,7 +23,7 @@ Map<String,dynamic> kiyoon = {
 
 ### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
 
-caption1 | caption2
+ListView | 상세 비디오
 :-: | :-:
 <video  src='https://user-images.githubusercontent.com/80557852/197308711-dce9c508-ce76-4d63-8048-8fc1c499c15c.mov' width=180/> | <video  src='https://user-images.githubusercontent.com/80557852/197315201-e70d1e69-840d-419f-a745-5a3f7da34346.mp4' width=180/> 
 
