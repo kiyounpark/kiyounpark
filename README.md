@@ -29,4 +29,8 @@ caption1 | caption2
 <video  src='https://user-images.githubusercontent.com/80557852/197308711-dce9c508-ce76-4d63-8048-8fc1c499c15c.mov' width=180/> | <video src='https://user-images.githubusercontent.com/80557852/197308755-91aeaa17-3459-4005-b395-368008092da6.mov' width=180>
 
 
+<video autoplay controls loop muted poster="aaa" preload="bbb">
+  <source src="https://user-images.githubusercontent.com/80557852/197308755-91aeaa17-3459-4005-b395-368008092da6.mov" type="yyy">
+  zzz
+</video>
 
