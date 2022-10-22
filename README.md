@@ -31,6 +31,6 @@ caption1 | caption2
 
 <video autoplay controls loop muted poster="aaa" preload="bbb">
   <source src="https://user-images.githubusercontent.com/80557852/197308755-91aeaa17-3459-4005-b395-368008092da6.mov" type="yyy">
-  zzz
+
 </video>
 
