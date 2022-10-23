@@ -25,11 +25,15 @@ Map<String,dynamic> kiyoon = {
 
 ListView | 상세 비디오
 :-: | :-:
-<video  src='https://user-images.githubusercontent.com/80557852/197308711-dce9c508-ce76-4d63-8048-8fc1c499c15c.mov' width=180/> | <video  src='https://user-images.githubusercontent.com/80557852/197315201-e70d1e69-840d-419f-a745-5a3f7da34346.mp4' width=180/> 
+
+<img src="https://user-images.githubusercontent.com/80557852/197368930-87614288-ddfa-49e5-a670-192e5bd95ac8.gif" width = '45%'/>|<img src="https://user-images.githubusercontent.com/80557852/197368935-746b0788-3bb3-44f4-9b97-ee2b4e875aa8.gif" width = '45%'/>
 
 
 
 
 
 
-<img src="https://user-images.githubusercontent.com/80557852/197366852-553f88fd-04c5-4bdf-b51e-1d6bad547dfa.gif" width="50%" />
+
+
+
+
