@@ -30,7 +30,6 @@ ListView | 상세 비디오
 
 
 
-    
 
 
-
+<img src="https://user-images.githubusercontent.com/80557852/197366852-553f88fd-04c5-4bdf-b51e-1d6bad547dfa.gif" width="50%" />
