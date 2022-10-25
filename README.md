@@ -1,4 +1,5 @@
-# 안녕하세요 Flutter 개발자 박기윤입니다! 🙌🏼
+## 안녕하세요 Flutter 개발자 박기윤입니다! 🙌🏼
+
 
 ```dart
 Map<String,dynamic> kiyoon = {
@@ -21,12 +22,9 @@ Map<String,dynamic> kiyoon = {
 
 ## 대표 프로젝트 💻
 
-### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
+- ### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
+- ### <a href="https://github.com/kiyounpark/day_night"> 낮과밤</a>
 
-#### Preview
-
-
-<img src="https://user-images.githubusercontent.com/80557852/197368930-87614288-ddfa-49e5-a670-192e5bd95ac8.gif" width = '45%'/>|<img src="https://user-images.githubusercontent.com/80557852/197368935-746b0788-3bb3-44f4-9b97-ee2b4e875aa8.gif" width = '45%'/>
 
 
 
