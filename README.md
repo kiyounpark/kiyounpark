@@ -23,7 +23,7 @@ Map<String,dynamic> kiyoon = {
 ## 대표 프로젝트 💻
 
 - ### <a href="https://github.com/kiyounpark/clone_youtube">YouTube 클론코딩</a>
-- ### <a href="https://github.com/kiyounpark/day_night"> 낮과밤</a>
+- ### <a href="https://github.com/kiyounpark/day_night1"> 낮과밤</a>
 
 
 
